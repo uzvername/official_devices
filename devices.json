@@ -931,3 +931,14 @@
       ]
    }
 ]
+ "name":"OnePlus 5",
+      "brand":"OnePlus",
+      "codename":"Cheeseburger",
+      "supported_versions":[
+         {
+            "version_code":"q",
+            "version_name":"q",
+            "maintainer_name":"",
+            "maintainer_url":"",
+		
+            "xda_thread":""
